@@ -18,7 +18,7 @@ func array(a1 []string, a2 []string) { // function named array, which takes two 
 	//the similiar variable is still "true", it means that all emenets in both arrays are the same and a message
 	//is printed to the console indicatinng that both arrays are the same
 	if similiar {
-		fmt.Printf("both index are same")
+		fmt.Printf("Index ke 1 dan Index ke 2 Sama")
 	}
 }
 
